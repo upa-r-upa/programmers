@@ -1,2 +1,2 @@
 # programmers
-Programmers 알고리즘
+Programmers 알고리즘 풀이
